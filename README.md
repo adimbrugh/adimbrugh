@@ -1,20 +1,24 @@
-# Hi there, I'm [Adam Ismail]! 👋
+# Hi there, I'm Adam Ismail! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Software Developer / Bac-End]** with experience in **[| Software Developer | Python | Django | DRF | MySQL | AWS |]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Software Developer / Bac-End]** with experience in **[Software Developer | Python | Django | DRF | MySQL | AWS]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[ALX ProDev Bac-end Developer]**
 - 🔭 Working on: **[AlxTravelApp and AirBnB Project]**
-- 🌍 Languages: **[| Programming Languages: Python, JavaScript|| Languages Speak: English, Arabic |]**
-- 📫 How to reach me: **[| haisamismail71@gmail.com || Linkedin: https://www.linkedin.com/in/adimbrugh/ |]**
+- 🌍 Languages: **[Programming Languages: Python, JavaScript || Languages Speak: English, Arabic]**
+- 📫 How to reach me: **[haisamismail71@gmail.com || +971561798388]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
 
 
+![]()
+![]()
+![]()
+![]()
 ![]()
 ![]()
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -42,22 +46,22 @@ I'm a passionate **[Software Developer / Bac-End]** with experience in **[| Soft
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [social_media_api](https://github.com/adimbrugh/social_media_api.git)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[social_media_api]** is a **[This API will allow users to create, update, delete posts, follow other users, and view a feed of posts from the users they follow, media uploads , likes and comments, direct messaging.Project will give experience in user relationships, database interactions, and handling large datasets, all while focusing on CRUD operations and API design.]** built with **[Python, Django, DRF]**. This project demonstrates my ability to **[Django, Django REST Framework, MySQL, Python, JavaScript, HTML, CSS]**. You can check out the repository [here](https://github.com/adimbrugh/social_media_api.git).
 
-### [Project 2 Title](project_2_link)
+### [event_management_api](https://github.com/adimbrugh/event_management_api.git)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[event_management_api]** is a **[the final capstone project of your Backend Web Development program]** built with **[Python, Django, MySQL]**. This project showcases my skills in **[Django, Django REST Framework, MySQL, Python, JavaScript, HTML, CSS]**. You can check out the repository [here](https://github.com/adimbrugh/event_management_api.git).
 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(Linkedin: https://www.linkedin.com/in/adimbrugh/)
+- **[Twitter]**(https://x.com/adimbrugh_/)
 
 
