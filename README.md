@@ -1,4 +1,4 @@
-# Hi there, I'm Adam Ismail! 👋
+# Hi there, I'm Adam Ismail 👋
 
 ![Banner Image](your_banner_image_url_here)
 
