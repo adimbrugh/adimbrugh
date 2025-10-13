@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Adam Ismail</span></h1>
-<h3 align="center">💻 Back-End Software Developer | Python • Django • REST & GraphQL APIs</h3>
+<h3 align="center">💻 Back-End Software Developer | 🔗 Building Scalable APIs | ☁️ Cloud-Native & 🔒 Secure Systems | 🐳 DevOps & 🚀 CI/CD Enthusiast </h3>
 
 ---
 
@@ -85,7 +85,7 @@ GDPR • HIPAA • SOC 2 • django-environ • Git • GitHub • Bash • Ubun
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [![Social Media Feed API](https://img.shields.io/badge/Social_Media_Feed_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Social-Media-Feed-Backend) | GraphQL + REST backend for social feed with caching and real-time updates. | Django, DRF, GraphQL, Redis, PostgreSQL |
+| [![Social Media Feed API](https://img.shields.io/badge/Social_Media_Feed_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Social-Media-Feed-Backend) | A scalable and feature-rich backend system for a **Social Media Feed Platform**, built with **Django**, **Django REST Framework (DRF)**, and **GraphQL**. It provides APIs for managing posts, comments, likes, hashtags, user feeds, and real-time updates using **Django Channels**, Real-time notifications (WebSockets), Follower/following relationships, Redis caching and performance optimization, GraphQL querying for flexible data access, Secure authentication (JWT). | Django, DRF, Graphene-Django, PostgreSQL, Redis, Celery, RabbitMQ, Docker, Docker Compose, Django Channels, Swagger / GraphQL Playground |
 | [![ALX Travel App API](https://img.shields.io/badge/ALX_Travel_App_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/alxtravelapp) | A backend system for a **travel booking platform** inspired by Airbnb, featuring secure booking workflows (CRUD), asynchronous email notifications, and payment integration, Role-based permissions, Dockerized and CI/CD ready. | Django, DRF, Celery, RabbitMQ, PostgreSQL, Docker, NGINX, Gunicorn, Chapa Payment API, GitHub Actions (CI/CD) |
 | [![Library System API](https://img.shields.io/badge/Library_System_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Library-Project) | A secure and scalable backend system for managing books, users, and borrow transactions using **Django REST Framework**, Custom user model, Role-based Access Control (RBAC), Secure authentication and permissions, MySQL integration. | Django, DRF, MySQL, Swagger (drf-yasg), Docker |
 | [![Event Management API](https://img.shields.io/badge/Event_Management_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Event-Management-API) | An API for managing events with secure user ownership, email notifications, and Celery-based background tasks, Validation for date/time and capacity, Role-based access control. | Django, DRF, Celery, RabbitMQ, MySQL, Docker |
