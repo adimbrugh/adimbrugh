@@ -89,6 +89,7 @@ GDPR • HIPAA • SOC 2 • django-environ • Git • GitHub • Bash • Ubun
 | [![ALX Travel App API](https://img.shields.io/badge/ALX_Travel_App_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/alxtravelapp) | Airbnb-style travel booking API with Celery & RabbitMQ background tasks. | Django, DRF, Celery, RabbitMQ |
 | [![Library System API](https://img.shields.io/badge/Library_System_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Library-Project) | Library management backend with RBAC & custom user model. | Django, DRF, MySQL |
 | [![Event Management API](https://img.shields.io/badge/Event_Management_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Event-Management-API) | Event CRUD system with Celery-based email notifications. | Django, DRF, Celery, RabbitMQ |
+| [![Django Blog API](https://img.shields.io/badge/Django_Blog_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Django-Blog-API) | A simple but powerful **Blog Platform API** built with Django REST Framework. Includes CRUD functionality for posts, categories, and tags, JWT authentication, Swagger UI (drf-yasg). | Django, DRF, drf-yasg - MySQL - Docker, Docker Compose - NGINX, Gunicorn |
 
 ---
 
