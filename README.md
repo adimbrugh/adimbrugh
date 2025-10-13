@@ -1,81 +1,106 @@
-<!-- ===================================================== -->
-<!-- 🌟 GitHub Profile README for Adam Ismail / adimbrugh -->
-<!-- Generated: 2025-10-12 UTC -->
-<!-- ===================================================== -->
-
-# 👋 Hi, I'm Adam Ismail
-### Back-End Software Developer | Python | Django | REST & GraphQL APIs | Cloud-Native | DevOps Enthusiast
-
-🚀 I specialize in building **scalable, secure, and maintainable backend systems** using Python, Django, and Django REST Framework.  
-I focus on **REST & GraphQL APIs, async tasks, caching, containerized deployments, and API security**.  
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Adam Ismail</span></h1>
+<h3 align="center">💻 Back-End Software Developer | Python • Django • REST & GraphQL APIs</h3>
 
 ---
 
-## 🧠 Summary
+### 🧠 **Summary**
 
-Back-End Software Developer with expertise in **Python, Django, and DRF**, specializing in:
-- 🔹 Scalable **REST & GraphQL APIs**
-- 🔹 **Secure authentication** (JWT, OAuth2, CSRF, CSP)
-- 🔹 **Cloud-native backend solutions** (AWS Elastic Beanstalk, Railway, PythonAnywhere)
-- 🔹 **Asynchronous task processing** (Celery + RabbitMQ)
-- 🔹 **Caching & DB optimization** (Redis, PostgreSQL, MySQL)
-- 🔹 **Containerized deployments** (Docker, NGINX, CI/CD pipelines)
-
-Passionate about delivering **high-performance systems** that solve real-world business problems.
+🚀 **Back-End Software Developer** with expertise in **Python**, **Django**, and **Django REST Framework (DRF)**, specializing in **scalable REST & GraphQL APIs**, secure authentication systems, and **cloud-native backend solutions**.  
+Experienced in **asynchronous task processing (Celery, RabbitMQ)**, **performance optimization (Redis, PostgreSQL, MySQL)**, and **containerized deployments (Docker, NGINX, CI/CD pipelines, cloud platforms)**.  
+Skilled in **API security (JWT, OAuth2, HTTPS, CSRF, CSP)**, DevOps workflows, and database optimization.  
+Passionate about building **high-performance, maintainable systems** that power real-world business applications.
 
 ---
 
-## 🧰 Technical Skills
+### 🛠️ **Technical Skills**
 
-**Languages:** Python
+#### 🐍 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks & Libraries:** Django, Django REST Framework (DRF), Graphene-Django, Celery, django-cors-headers, drf-yasg
+#### ⚙️ Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Graphene-Django](https://img.shields.io/badge/Graphene--Django-FF6F00?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+![drf-yasg](https://img.shields.io/badge/drf--yasg-009688?style=for-the-badge)
+![django-cors-headers](https://img.shields.io/badge/CORS--Headers-4CAF50?style=for-the-badge)
 
-**Databases & Cache:** MySQL, PostgreSQL, SQLite, Redis (caching, rate limiting)
+#### 🗃️ Databases & Cache  
+![MySQL](https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Tools:** Docker, Docker Hub, Docker Compose, NGINX, Gunicorn, uWSGI, CI/CD (GitHub Actions, Jenkins, Travis CI), Kubernetes (Minikube), Supervisord, Systemd
+#### 🐳 DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
+![uWSGI](https://img.shields.io/badge/uWSGI-FFB300?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge)
+![Supervisord](https://img.shields.io/badge/Supervisord-007C91?style=for-the-badge)
+![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge)
 
-**API & Security:** RESTful APIs, GraphQL, JWT, OAuth2, SAML, Swagger/OpenAPI, Rate Limiting, IP Logging, Blacklisting, Anomaly Detection, HTTPS, CSRF, CSP
+#### 🔐 API & Security  
+![REST API](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3E8EDE?style=for-the-badge)
+![SAML](https://img.shields.io/badge/SAML-FFA000?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-**Testing & Monitoring:** Pytest, Coverage, flake8, Django Test Framework, Postman, Insomnia, Logging & Monitoring tools (Sentry, Prometheus, Grafana)
+#### 🧪 Testing & Monitoring  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+![flake8](https://img.shields.io/badge/flake8-FF6600?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Cloud & Deployment:** AWS Elastic Beanstalk, Railway, PythonAnywhere, Blue-Green Deployments, Microservices, Cloud-Native Development
+#### ☁️ Cloud & Deployment  
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge)
+![Blue-Green](https://img.shields.io/badge/Blue--Green%20Deployments-00897B?style=for-the-badge)
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-4285F4?style=for-the-badge)
 
-**System Design / Concepts:** Load Balancing, Microservices, Message Queues, Distributed Systems, Async programming, Performance Optimization, Caching, Database Indexing
+#### 🧩 System Design / Concepts  
+Load Balancing • Microservices • Message Queues • Distributed Systems • Async Programming • Caching • Performance Optimization • Database Indexing  
 
-**Compliance / Other:** GDPR, HIPAA, SOC 2 awareness, Environment management (django-environ), Git, GitHub, Shell/Bash, Ubuntu/WSL, Generative AI for Developers
+#### ⚖️ Compliance / Other  
+GDPR • HIPAA • SOC 2 • django-environ • Git • GitHub • Bash • Ubuntu/WSL • Generative AI for Developers  
 
 ---
 
-## 📌 Pinned Projects
+### 📌 **Pinned Projects**
 
-### 1️⃣ Social Media Feed Backend API
-[![Repo](https://img.shields.io/badge/-social_media_feed_backend-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimbrugh/social_media_feed_backend)  
-GraphQL + REST APIs, real-time notifications, Redis caching, Dockerized
-
-### 2️⃣ Airbnb Travel App API
-[![Repo](https://img.shields.io/badge/-airbnb_travel_app_api-FF5A5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimbrugh/airbnb_travel_app_api)  
-Travel booking system, Celery tasks, Chapa payment integration, Docker deployment
-
-### 3️⃣ Library Management API
-[![Repo](https://img.shields.io/badge/-library_management_api-4479A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimbrugh/library_management_api)  
-RBAC, custom user model, secure CRUD APIs
-
-### 4️⃣ Blog Platform API
-[![Repo](https://img.shields.io/badge/-blog_platform_api-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimbrugh/blog_platform_api)  
-CRUD posts, categories, tags, Swagger documentation
-
-### 5️⃣ Event Management API
-[![Repo](https://img.shields.io/badge/-event_management_api-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adimbrugh/event_management_api)  
-User-managed events, background email notifications, Celery + RabbitMQ
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [![Social Media Feed API](https://img.shields.io/badge/Social_Media_Feed_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Social-Media-Feed-Backend) | GraphQL + REST backend for social feed with caching and real-time updates. | Django, DRF, GraphQL, Redis, PostgreSQL |
+| [![ALX Travel App API](https://img.shields.io/badge/ALX_Travel_App_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/alxtravelapp) | Airbnb-style travel booking API with Celery & RabbitMQ background tasks. | Django, DRF, Celery, RabbitMQ |
+| [![Library System API](https://img.shields.io/badge/Library_System_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Library-Project) | Library management backend with RBAC & custom user model. | Django, DRF, MySQL |
+| [![Event Management API](https://img.shields.io/badge/Event_Management_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Event-Management-API) | Event CRUD system with Celery-based email notifications. | Django, DRF, Celery, RabbitMQ |
 
 ---
 
-## 📫 Contact Me
-- ✉️ Email: [haisamismail71@gmail.com](mailto:haisamismail71@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/adimbrugh](https://www.linkedin.com/in/adimbrugh)
+### 📫 **Connect with Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adimbrugh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:haisamismail71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ More About Me
-I enjoy crafting maintainable backend architectures, improving performance with caching and indexing, and building automated deployments with Docker and CI/CD. Currently deepening knowledge in system design, Kubernetes, and cloud-native patterns.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adimbrugh&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+---
+
+⭐ **"Building secure, scalable, and intelligent backends — one API at a time."**  
