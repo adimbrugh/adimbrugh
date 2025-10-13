@@ -1,139 +1,90 @@
-<!-- Dark Mode Optimized GitHub Profile README -->
-
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Adam Ismail</span></h1>
 <h3 align="center">💻 Back-End Software Developer | Python • Django • REST & GraphQL APIs</h3>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Engineer-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Django_Developer-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-0366d6?style=for-the-badge&logo=github"/>
-</p>
-
----
-
 ### 🧠 **Summary**
 
-🚀 Passionate **Back-End Software Developer** with expertise in **Python**, **Django**, and **Django REST Framework (DRF)** — specializing in **scalable REST & GraphQL APIs**, secure authentication, and **cloud-native backend solutions**.  
-Proficient in **asynchronous processing (Celery, RabbitMQ)**, **caching (Redis)**, and **containerized deployments (Docker, NGINX, CI/CD)**.  
-Focused on **API security (JWT, OAuth2, HTTPS, CSRF, CSP)**, database optimization, and **cloud-based DevOps pipelines**.  
-💡 Dedicated to delivering **secure, maintainable, and high-performance systems** that support modern business needs.
+🚀 **Back-End Software Developer** with expertise in **Python**, **Django**, and **Django REST Framework (DRF)**, specializing in **scalable REST & GraphQL APIs**, secure authentication systems, and **cloud-native backend solutions**.  
+Experienced in **asynchronous task processing (Celery, RabbitMQ)**, **performance optimization (Redis, PostgreSQL, MySQL)**, and **containerized deployments (Docker, NGINX, CI/CD pipelines, cloud platforms)**.  
+Skilled in **API security (JWT, OAuth2, HTTPS, CSRF, CSP)**, DevOps workflows, and database optimization.  
+Passionate about building **high-performance, maintainable systems** that power real-world business applications.
 
 ---
 
-## 🛠️ **Technical Skills**
+### 🛠️ **Technical Skills**
 
-<p align="center">
-  <b>🐍 Languages:</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-</p>
+#### 🐍 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
-  <b>⚙️ Frameworks & Libraries:</b><br>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Graphene--Django-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/drf--yasg-009688?style=for-the-badge"/>
-</p>
+#### ⚙️ Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Graphene-Django](https://img.shields.io/badge/Graphene--Django-FF6F00?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+![drf-yasg](https://img.shields.io/badge/drf--yasg-009688?style=for-the-badge)
+![django-cors-headers](https://img.shields.io/badge/CORS--Headers-4CAF50?style=for-the-badge)
 
-<p align="center">
-  <b>🗃️ Databases & Cache:</b><br>
-  <img src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+#### 🗃️ Databases & Cache  
+![MySQL](https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
-  <b>🐳 DevOps & Tools:</b><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/uWSGI-FFB300?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Supervisord-007C91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Systemd-000000?style=for-the-badge"/>
-</p>
+#### 🐳 DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
+![uWSGI](https://img.shields.io/badge/uWSGI-FFB300?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge)
+![Supervisord](https://img.shields.io/badge/Supervisord-007C91?style=for-the-badge)
+![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge)
 
-<p align="center">
-  <b>🔐 API & Security:</b><br>
-  RESTful APIs • GraphQL • JWT • OAuth2 • SAML • Swagger/OpenAPI • Rate Limiting • IP Logging • HTTPS • CSRF • CSP
-</p>
+#### 🔐 API & Security  
+![REST API](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3E8EDE?style=for-the-badge)
+![SAML](https://img.shields.io/badge/SAML-FFA000?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-<p align="center">
-  <b>🧪 Testing & Monitoring:</b><br>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/flake8-FF6600?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
+#### 🧪 Testing & Monitoring  
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+![flake8](https://img.shields.io/badge/flake8-FF6600?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<p align="center">
-  <b>☁️ Cloud & Deployment:</b><br>
-  <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blue--Green_Deployments-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud_Native-4285F4?style=for-the-badge"/>
-</p>
+#### ☁️ Cloud & Deployment  
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge)
+![Blue-Green](https://img.shields.io/badge/Blue--Green%20Deployments-00897B?style=for-the-badge)
+![Cloud Native](https://img.shields.io/badge/Cloud%20Native-4285F4?style=for-the-badge)
 
-<p align="center">
-  <b>🧩 System Design / Concepts:</b><br>
-  Load Balancing • Microservices • Message Queues • Distributed Systems • Async Programming • Caching • Performance Optimization • Database Indexing
-</p>
+#### 🧩 System Design / Concepts  
+Load Balancing • Microservices • Message Queues • Distributed Systems • Async Programming • Caching • Performance Optimization • Database Indexing  
 
-<p align="center">
-  <b>⚖️ Compliance / Other:</b><br>
-  GDPR • HIPAA • SOC 2 • django-environ • Git • GitHub • Bash • Ubuntu/WSL • Generative AI for Developers
-</p>
+#### ⚖️ Compliance / Other  
+GDPR • HIPAA • SOC 2 • django-environ • Git • GitHub • Bash • Ubuntu/WSL • Generative AI for Developers  
 
 ---
 
-## 📌 **Pinned Projects**
+### 📌 **Pinned Projects**
 
-<p align="center">
-
-<a href="https://github.com/adimbrugh/Social-Media-Feed-Backend">
-  <img src="https://img.shields.io/badge/Social_Media_Feed_API-181717?style=for-the-badge&logo=github"/>
-</a>
-<br>
-<sub>GraphQL + REST backend for social feed with caching & real-time updates (Django, DRF, Redis, PostgreSQL)</sub>
-
-<br><br>
-
-<a href="https://github.com/adimbrugh/alxtravelapp">
-  <img src="https://img.shields.io/badge/ALX_Travel_App_API-181717?style=for-the-badge&logo=github"/>
-</a>
-<br>
-<sub>Airbnb-style booking API with Celery & RabbitMQ background tasks</sub>
-
-<br><br>
-
-<a href="https://github.com/adimbrugh/Library-Project">
-  <img src="https://img.shields.io/badge/Library_System_API-181717?style=for-the-badge&logo=github"/>
-</a>
-<br>
-<sub>Scalable library management backend with custom user model & RBAC</sub>
-
-<br><br>
-
-<a href="https://github.com/adimbrugh/Event-Management-API">
-  <img src="https://img.shields.io/badge/Event_Management_API-181717?style=for-the-badge&logo=github"/>
-</a>
-<br>
-<sub>Event CRUD system with Celery-based email notifications</sub>
-
-</p>
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [![Social Media Feed API](https://img.shields.io/badge/Social_Media_Feed_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Social-Media-Feed-Backend) | GraphQL + REST backend for social feed with caching and real-time updates. | Django, DRF, GraphQL, Redis, PostgreSQL |
+| [![ALX Travel App API](https://img.shields.io/badge/ALX_Travel_App_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/alxtravelapp) | Airbnb-style travel booking API with Celery & RabbitMQ background tasks. | Django, DRF, Celery, RabbitMQ |
+| [![Library System API](https://img.shields.io/badge/Library_System_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Library-Project) | Library management backend with RBAC & custom user model. | Django, DRF, MySQL |
+| [![Event Management API](https://img.shields.io/badge/Event_Management_API-181717?style=for-the-badge&logo=github)](https://github.com/adimbrugh/Event-Management-API) | Event CRUD system with Celery-based email notifications. | Django, DRF, Celery, RabbitMQ |
 
 ---
 
-## 📫 **Connect with Me**
+### 📫 **Connect with Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adimbrugh">
@@ -147,11 +98,9 @@ Focused on **API security (JWT, OAuth2, HTTPS, CSRF, CSP)**, database optimizati
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adimbrugh&style=flat-square&color=00BFFF" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=adimbrugh&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ <i>"Building secure, scalable, and intelligent backends — one API at a time."</i> ⭐
-</p>
+⭐ **"Building secure, scalable, and intelligent backends — one API at a time."**  
