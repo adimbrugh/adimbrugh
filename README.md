@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Adam Ismail</span></h1>
-<h3 align="center">💻 Back-End Software Developer | 🔗 Building Scalable APIs | ☁️ Cloud-Native & 🔒 Secure Systems |   🐳 DevOps & 🚀 CI/CD Enthusiast </h3>
+<h3 align="center">💻 Back-End Software Developer | 🔗 Building Scalable APIs | ☁️ Cloud-Native & 🔒 Secure Systems |   
+  🐳 DevOps & 🚀 CI/CD Enthusiast </h3>
 
 ---
 
